@@ -2,6 +2,11 @@
 
 Chair website: [https://kt.nemk.com.ua](https://kt.nemk.com.ua)
 
+Course Materials: [https://drive.google.com/drive/folders/1nu8rupkbbReG6xEtiwLpvSQeDb2ADdsa](https://drive.google.com/drive/folders/1nu8rupkbbReG6xEtiwLpvSQeDb2ADdsa)
+
+Google Classroom Link: [https://classroom.google.com/c/ODAyMzc1MzU0ODA4?cjc=iw4qh62r](https://classroom.google.com/c/ODAyMzc1MzU0ODA4?cjc=iw4qh62r)
+
+
 ## Course Information
 
 * Language: Ukrainian/English
@@ -17,7 +22,7 @@ This course covers some of the most important aspects of Cloud Technologies.
 
 ## Tasks
 
-| Unit    | Readings | Slide |Video   |                      |
+| Unit    | Readings | Slides| Video  | Tasks                |
 |---------|----------|-------|--------|----------------------|
 |GNU/Linux|[Book1](https://linuxguide.rozh2sch.org.ua/)         |       |        |[Task](linux/task.md) |
 |Docker   |          |       |        |                      |
