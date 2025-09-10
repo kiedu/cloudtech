@@ -17,9 +17,9 @@ This course covers some of the most important aspects of Cloud Technologies.
 
 ## Tasks
 
-| Unit    | Readings | Slide |Video   |                      |                                                 |
+| Unit    | Readings | Slide |Video   |                      |
 |---------|----------|-------|--------|----------------------|
-|GNU/Linux|          |       |        |[Task](linux/task.md) |
+|GNU/Linux|[Book1](https://linuxguide.rozh2sch.org.ua/)         |       |        |[Task](linux/task.md) |
 |Docker   |          |       |        |                      |
 |Clouds   |          |       |        |                      |
 |DevOps   |          |       |        |                      |   
