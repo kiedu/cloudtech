@@ -9,6 +9,7 @@ Google Classroom Link: [https://classroom.google.com/c/ODAyMzc1MzU0ODA4?cjc=iw4q
 
 ## Course Information
 
+* Instructor: [Volodymyr Borys](https://vborys.gitlab.io) ([vborys@tuta.io](mailto:vborys@tuta.io))
 * Language: Ukrainian/English
 * Type: Elective Course
 * ECTS Credits: 8
@@ -25,7 +26,7 @@ This course covers some of the most important aspects of Cloud Technologies.
 | Unit    | Readings | Slides| Video  | Tasks                |
 |---------|----------|-------|--------|----------------------|
 |GNU/Linux|[Book1](https://linuxguide.rozh2sch.org.ua/)         |       |        |[Task](linux/task.md) |
-|Docker   |          |       |        |                      |
+|Docker   |[Article1](docker/README.md)|       |        |[Task1](docker/task1_basics.md), [Task2](docker/task2_dockerfile.md), [Task3](docker/task3_storage.md), [Task4](docker/task4_networking.md),[Task5](docker/task5_docker-compose.md), [Final](docker/final_tasks.md)|
 |Clouds   |          |       |        |                      |
 |DevOps   |          |       |        |                      |   
 
